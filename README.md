@@ -1,6 +1,6 @@
 ### LLM Safety Evaluation
 
-This is a group project for the CS427 course (AI Safety) at the Singapore Management Universuty (SMU), done by a 4-person team. In this project, we evaluate the safety of an AI model based on 3 dimensions:
+This is a group project for the CS427 course (AI Safety) at the Singapore Management University (SMU), done by a 4-person team. In this project, we evaluate the safety of an AI model based on 3 dimensions:
 
 - Robustness
 - Hallucination
